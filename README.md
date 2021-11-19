@@ -2,14 +2,18 @@
 
 ## 목차
  1. [일정](#일정)
- 2. [Contents](#Contents)
- 3. [공부자료](#공부자료)
- 4. [Answers](https://github.com/Chocochip101/ai-tech-interview/tree/main/answers)
+ 2. [참여](#참여)
+ 3. [Contents](#Contents)
+ 4. [공부자료](#공부자료)
+ 5. [Answers](https://github.com/Chocochip101/ai-tech-interview/tree/main/answers)
 
 ## 일정
 - [Day 1 (21.11.18)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Day%201/Day%201.pdf)
 - [Day 2 (TBD)]()
 - [Day 3 (TBD)]()
+
+## 참여
+[Chocochip](https://github.com/Chocochip101), [GardenJun](https://github.com/garden-jun)
 
 ## Contents
 ### [Day 1](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Day%201/Day%201.pdf)
@@ -93,7 +97,7 @@
 9. What is type conversion in Python?
 
 - Algorithm
-10. [Problem](https://programmers.co.kr/learn/courses/30/lessons/76501)
+10. [Problem](https://www.acmicpc.net/problem/1914)
 
   ---
 </details>
