@@ -8,7 +8,7 @@
  5. [Answers](https://github.com/Chocochip101/ai-tech-interview/tree/main/answers)
 
 ## 일정
-- [Day 1 (21.11.18)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Day%201/Day%201.pdf)
+- [Day 1 (21.11.18)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
 - [Day 2 (TBD)]()
 - [Day 3 (TBD)]()
 
@@ -16,7 +16,7 @@
 [Chocochip](https://github.com/Chocochip101), [GardenJun](https://github.com/garden-jun)
 
 ## Contents
-### [Day 1](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Day%201/Day%201.pdf)
+### [Day 1](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
 <details>
   <summary>Content</summary>
 
