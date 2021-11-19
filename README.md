@@ -12,6 +12,11 @@
 
 ## Contents
 ### [Day 1](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Day%201/Day%201.pdf)
+<details>
+  <summary>Content</summary>
+
+  ---
+
 - Statistic/Math
 1. 고유값(eigen value)와 고유벡터(eigen vector)에 대해 설명해주세요. 그리고 왜 중요할까요?
 2. 샘플링(Sampling)과 리샘플링(Resampling)에 대해 설명해주세요. 리샘플링은 무슨 장점이 있을까요?
@@ -29,8 +34,13 @@
 - Python
 9. What is the difference between list and tuples in Python?
 10. What are the key features of Python?
+  ---
+</details>
 
 ### Day 2
+<details>
+  <summary>Content</summary>
+  ---
 - Statistic/Math
 1. 확률 모형과 확률 변수는 무엇일까요?
 2. 누적 분포 함수와 확률 밀도 함수는 무엇일까요? 수식과 함께 표현해주세요.
@@ -54,6 +64,8 @@
   <img src="https://user-images.githubusercontent.com/73146678/142587215-577b0016-bb90-4810-b0ca-d0bdaaaf4420.png"  width="250" height="350"/>
 </p>
   
+  ---
+</details>
 
 ## 공부자료
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)
