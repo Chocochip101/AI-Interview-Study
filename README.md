@@ -12,6 +12,7 @@
 - [Day 2 (21.11.21)]()
 - [Day 3 (21.11.21)]()
 - [Day 4 (21.11.25)]()
+- [Day 5 (21.11.25)]()
 
 ## 참여
 [Chocochip](https://github.com/Chocochip101), [GardenJun](https://github.com/garden-jun)
@@ -132,6 +133,35 @@
   ---
 </details>
 
+### Day 5
+<details>
+  <summary>Content</summary>
+
+  ---
+
+- Statistic/Math
+1. R square의 의미는 무엇인가요?
+2. 평균(mean)과 중앙값(median)중에 어떤 케이스에서 뭐를 써야할까요?
+
+- Machine Learning
+3. 회귀 / 분류시 알맞은 metric은 무엇일까?
+4. Association Rule의 Support, Confidence, Lift에 대해 설명해주세요.
+5. 최적화 기법중 Newton’s Method와 Gradient Descent 방법에 대해 알고 있나요?
+
+- Deep Learning
+6. Gradient Descent에 대해서 쉽게 설명한다면?
+7. 왜 꼭 Gradient를 써야 할까? 그 그래프에서 가로축과 세로축 각각은 무엇인가? 실제 상황에서는 그 그래프가 어떻게 그려질까?
+8. GD 중에 때때로 Loss가 증가하는 이유는?
+9. Back Propagation에 대해서 쉽게 설명 한다면?
+
+- Python
+9. What is self in Python?
+
+- Algorithm
+10. 다음 코드의 출력 값은?
+![image](https://user-images.githubusercontent.com/73146678/142759377-41d81415-36b4-4b1a-8bba-80957c225fab.png)
+  ---
+</details>
 
 ## 공부자료
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)
