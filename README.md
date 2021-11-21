@@ -158,7 +158,7 @@
 9. What is self in Python?
 
 - Algorithm
-10. 다음 코드의 출력 값은?
+10. 다음 코드의 출력 값은?   
 ![image](https://user-images.githubusercontent.com/73146678/142759377-41d81415-36b4-4b1a-8bba-80957c225fab.png)
   ---
 </details>
