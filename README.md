@@ -125,7 +125,7 @@
 9. Bias는 왜 존재할까?
 
 - Python
-9. What is __init__?
+9. What is \_\_init__?
 
 - Algorithm
 10. [Problem - Programmers - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
