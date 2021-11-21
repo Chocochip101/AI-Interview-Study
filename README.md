@@ -9,8 +9,9 @@
 
 ## 일정
 - [Day 1 (21.11.18)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
-- [Day 2 (TBD)]()
-- [Day 3 (TBD)]()
+- [Day 2 (21.11.21)]()
+- [Day 3 (21.11.21)]()
+- [Day 4 (21.11.25)]()
 
 ## 참여
 [Chocochip](https://github.com/Chocochip101), [GardenJun](https://github.com/garden-jun)
@@ -97,10 +98,40 @@
 9. What is type conversion in Python?
 
 - Algorithm
-10. [Problem](https://www.acmicpc.net/problem/1914)
+10. [Problem - BOJ 1914](https://www.acmicpc.net/problem/1914)
 
   ---
 </details>
+
+### Day 4
+<details>
+  <summary>Content</summary>
+
+  ---
+
+- Statistic/Math
+1. 신뢰 구간의 정의는 무엇인가요?
+2. p-value를 모르는 사람에게 설명한다면 어떻게 설명하실 건가요?
+
+- Machine Learning
+3. 텍스트 더미에서 주제를 추출해야 합니다. 어떤 방식으로 접근해 나가시겠나요?
+4. SVM은 무엇이고 왜 반대로 차원을 확장시키는 방식으로 동작할까요? SVM은 왜 좋을까요?
+5. 다른 좋은 머신 러닝 대비, 오래된 기법인 나이브 베이즈(naive bayes)의 장점을 옹호해보세요.
+
+- Deep Learning
+6. 요즘 Sigmoid 보다 ReLU를 많이 쓰는데 그 이유는?
+7. ReLU로 어떻게 곡선 함수를 근사하나?
+8. ReLU의 문제점은?
+9. Bias는 왜 존재할까?
+
+- Python
+9. What is __init__?
+
+- Algorithm
+10. [Problem - Programmers - 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+  ---
+</details>
+
 
 ## 공부자료
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)
