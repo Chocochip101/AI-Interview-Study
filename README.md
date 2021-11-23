@@ -9,8 +9,8 @@
 
 ## 일정
 - [Day 1 (21.11.18)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
-- [Day 2 (21.11.21)]()
-- [Day 3 (21.11.21)]()
+- [Day 2 (21.11.21)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%202.pdf)
+- [Day 3 (21.11.21)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%203.pdf)
 - [Day 4 (21.11.25)]()
 - [Day 5 (21.11.25)]()
 - [Day 6 (21.11.25)]()
@@ -45,7 +45,7 @@
   ---
 </details>
 
-### Day 2
+### [Day 2](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%202.pdf)
 <details>
   <summary>Content</summary>
 
@@ -77,7 +77,7 @@
   ---
 </details>
 
-### Day 3
+### [Day 3](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%203.pdf)
 <details>
   <summary>Content</summary>
 
