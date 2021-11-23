@@ -13,6 +13,7 @@
 - [Day 3 (21.11.21)]()
 - [Day 4 (21.11.25)]()
 - [Day 5 (21.11.25)]()
+- [Day 6 (21.11.25)]()
 
 ## 참여
 [Chocochip](https://github.com/Chocochip101), [GardenJun](https://github.com/garden-jun)
@@ -163,5 +164,34 @@
   ---
 </details>
 
+### Day 6
+<details>
+  <summary>Content</summary>
+
+  ---
+
+- Statistic/Math
+1. 중심극한정리는 왜 유용한걸까요?
+2. 엔트로피(entropy)에 대해 설명해주세요. 가능하면 Information Gain도요.
+
+- Machine Learning
+3. ROC 커브에 대해 설명해주실 수 있으신가요?
+4. K-means의 대표적 의미론적 단점은 무엇인가요? (계산량 많다는것 말고)
+5. 머신러닝(machine)적 접근방법과 통계(statistics)적 접근방법의 둘간에 차이에 대한 견해가 있나요?
+
+- Deep Learning
+6. GD가 Local Minima 문제를 피하는 방법과 찾은 해가 Global Minimum인지 아닌지 알 수 있는 방법은 무엇이 있을까요?
+7. Training 세트와 Test 세트를 분리하는 이유와 Validation 세트가 따로 있는 이유는?
+8. Test 세트가 오염되었다는 말의 뜻은 무엇인가?
+
+- Python
+9. What does *args, **kwargs mean? And why would we use it?
+
+- Algorithm
+10. [Problem - Programmers - 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
+  ---
+</details>
+
 ## 공부자료
-[BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)
+[BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)  
+[DataScience Interview Questions](https://github.com/zzsza/Datascience-Interview-Questions)
