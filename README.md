@@ -16,7 +16,7 @@
 - [Day 6 (21.11.25)]()
 
 ## 참여
-[Chocochip](https://github.com/Chocochip101), [GardenJun](https://github.com/garden-jun)
+[Chocochip](https://github.com/Chocochip101) ([BLOG](https://chocochip101.tistory.com/)), [GardenJun](https://github.com/garden-jun)
 
 ## Contents
 ### [Day 1](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
@@ -122,9 +122,8 @@
 
 - Deep Learning
 6. 요즘 Sigmoid 보다 ReLU를 많이 쓰는데 그 이유는?
-7. ReLU로 어떻게 곡선 함수를 근사하나?
-8. ReLU의 문제점은?
-9. Bias는 왜 존재할까?
+7. ReLU로 어떻게 곡선 함수를 근사하나? ReLU의 문제점은?
+8. Bias는 왜 존재할까?
 
 - Python
 9. What is \_\_init__?
