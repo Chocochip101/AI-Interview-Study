@@ -14,6 +14,7 @@
 - [Day 4 (21.11.25)]()
 - [Day 5 (21.11.25)]()
 - [Day 6 (21.11.25)]()
+- [Day 7 (21.11.28)]()
 
 ## 참여
 [Chocochip](https://github.com/Chocochip101) ([BLOG](https://chocochip101.tistory.com/)), [GardenJun](https://github.com/garden-jun)
@@ -190,6 +191,33 @@
 10. [Problem - Programmers - 피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
   ---
 </details>
+
+### Day 7
+<details>
+  <summary>Content</summary>
+
+  ---
+
+- Statistic/Math
+1. 어떨 때 모수적 방법론을 쓸 수 있고, 어떨 때 비모수적 방법론을 쓸 수 있나요?
+2. “likelihood”와 “probability”의 차이는 무엇일까요?
+
+- Machine Learning
+3. L1, L2 정규화에 대해 설명해주세요.
+4. Cross Validation은 무엇이고 어떻게 해야하나요?
+5. XGBoost을 아시나요? 왜 이 모델이 캐글에서 유명할까요?
+
+- Deep Learning
+6. Batch Normalization의 효과와 주의점은?
+7. GAN에서 Generator 쪽에도 BN을 적용해도 될까?
+8. CNN에 대해서 설명해주세요.
+9. Average Pooling과 Max Pooling의 차이점은?
+
+- Algorithm
+10. [Problem - Programmers - 교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)
+  ---
+</details>
+
 
 ## 공부자료
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)  
