@@ -156,10 +156,10 @@
 9. Back Propagation에 대해서 쉽게 설명 한다면?
 
 - Python
-9. What is self in Python?
+10. What is self in Python?
 
 - Algorithm
-10. 다음 코드의 출력 값은?   
+11. 다음 코드의 출력 값은?   
 ![image](https://user-images.githubusercontent.com/73146678/142759377-41d81415-36b4-4b1a-8bba-80957c225fab.png)
   ---
 </details>
@@ -218,7 +218,37 @@
   ---
 </details>
 
+### Day 8
+<details>
+  <summary>Content</summary>
+
+  ---
+
+- Statistic/Math
+1. 검정력(statistical power)은 무엇일까요?
+
+- Machine Learning
+2. 앙상블 방법엔 어떤 것들이 있나요?
+
+
+- Deep Learning
+3. 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법은 무엇인가요?
+4. Fatser R-CNN의 장점과 단점은 무엇인가요?
+5. dlib은 무엇인가요?
+6. YOLO의 장점과 단점은 무엇인가요?
+
+- Data Base
+7. Key란 무엇인가요?
+8. Key의 다섯 가지 종류에 대해 설명해주세요.
+
+- Algorithm
+9. [Problem - Programmers - 타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+10. [Problem - Programmers - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+
+  ---
+</details>
 
 ## 공부자료
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)  
-[DataScience Interview Questions](https://github.com/zzsza/Datascience-Interview-Questions)
+[DataScience Interview Questions](https://github.com/zzsza/Datascience-Interview-Questions)  
+[Tech Interview for Developer](https://github.com/gyoogle/tech-interview-for-developer)
