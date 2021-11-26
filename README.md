@@ -11,9 +11,9 @@
 - [Day 1 (21.11.18)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
 - [Day 2 (21.11.21)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%202.pdf)
 - [Day 3 (21.11.21)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%203.pdf)
-- [Day 4 (21.11.25)]()
-- [Day 5 (21.11.25)]()
-- [Day 6 (21.11.25)]()
+- [Day 4 (21.11.25)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%204.pdf)
+- [Day 5 (21.11.25)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%205.pdf)
+- [Day 6 (21.11.25)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%206.pdf)
 - [Day 7 (21.11.28)]()
 - [Day 8 (21.11.28)]()
 
@@ -107,7 +107,7 @@
   ---
 </details>
 
-### Day 4
+### [Day 4](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%204.pdf)
 <details>
   <summary>Content</summary>
 
@@ -135,7 +135,7 @@
   ---
 </details>
 
-### Day 5
+### [Day 5](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%205.pdf)
 <details>
   <summary>Content</summary>
 
@@ -165,7 +165,7 @@
   ---
 </details>
 
-### Day 6
+### [Day 6](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%206.pdf)
 <details>
   <summary>Content</summary>
 
