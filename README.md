@@ -15,6 +15,7 @@
 - [Day 5 (21.11.25)]()
 - [Day 6 (21.11.25)]()
 - [Day 7 (21.11.28)]()
+- [Day 8 (21.11.28)]()
 
 ## 참여
 [Chocochip](https://github.com/Chocochip101) ([BLOG](https://chocochip101.tistory.com/)), [GardenJun](https://github.com/garden-jun)
