@@ -236,15 +236,14 @@
 3. 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법은 무엇인가요?
 4. Fatser R-CNN의 장점과 단점은 무엇인가요?
 5. dlib은 무엇인가요?
-6. YOLO의 장점과 단점은 무엇인가요?
 
 - Data Base
-7. Key란 무엇인가요?
-8. Key의 다섯 가지 종류에 대해 설명해주세요.
+6. Key란 무엇인가요?
+7. Key의 다섯 가지 종류에 대해 설명해주세요.
 
 - Algorithm
-9. [Problem - Programmers - 타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
-10. [Problem - Programmers - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+8. [Problem - Programmers - 타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+9. [Problem - Programmers - N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
 
   ---
 </details>
