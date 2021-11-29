@@ -1,4 +1,4 @@
-# AI Interview Study
+# Tech Interview Study
 
 ## 목차
  1. [일정](#일정)
@@ -234,7 +234,7 @@
 
 - Deep Learning
 3. 딥러닝 발달 이전에 사물을 Detect할 때 자주 사용하던 방법은 무엇인가요?
-4. Fatser R-CNN의 장점과 단점은 무엇인가요?
+4. Faster R-CNN의 장점과 단점은 무엇인가요?
 5. dlib은 무엇인가요?
 
 - Data Base
@@ -252,3 +252,4 @@
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)  
 [DataScience Interview Questions](https://github.com/zzsza/Datascience-Interview-Questions)  
 [Tech Interview for Developer](https://github.com/gyoogle/tech-interview-for-developer)
+[Interview Questions for Beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
