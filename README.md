@@ -14,8 +14,8 @@
 - [Day 4 (21.11.25)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%204.pdf)
 - [Day 5 (21.11.25)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%205.pdf)
 - [Day 6 (21.11.25)](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%206.pdf)
-- [Day 7 (21.11.28)]()
-- [Day 8 (21.11.28)]()
+- [Day 7 (21.11.28)](https://github.com/Chocochip101/Tech-Interview-Study/blob/main/Contents/Day%207.pdf)
+- [Day 8 (21.11.28)](https://github.com/Chocochip101/Tech-Interview-Study/blob/main/Contents/Day%208.pdf)
 
 ## 참여
 [Chocochip](https://github.com/Chocochip101) ([BLOG](https://chocochip101.tistory.com/)), [GardenJun](https://github.com/garden-jun)
@@ -193,7 +193,7 @@
   ---
 </details>
 
-### Day 7
+### [Day 7](https://github.com/Chocochip101/Tech-Interview-Study/blob/main/Contents/Day%207.pdf)
 <details>
   <summary>Content</summary>
 
@@ -219,7 +219,7 @@
   ---
 </details>
 
-### Day 8
+### [Day 8](https://github.com/Chocochip101/Tech-Interview-Study/blob/main/Contents/Day%208.pdf)
 <details>
   <summary>Content</summary>
 
