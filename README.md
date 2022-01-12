@@ -21,6 +21,7 @@
 [Chocochip](https://github.com/Chocochip101) ([BLOG](https://chocochip101.tistory.com/)), [GardenJun](https://github.com/garden-jun)
 
 ## Contents
+
 ### [Day 1](https://github.com/Chocochip101/AI-Interview-Study/blob/main/Contents/Day%201.pdf)
 <details>
   <summary>Content</summary>
@@ -251,5 +252,6 @@
 ## 공부자료
 [BoostCamp AI Tech](https://github.com/Chocochip101/ai-tech-interview#-statisticsmath)  
 [DataScience Interview Questions](https://github.com/zzsza/Datascience-Interview-Questions)  
-[Tech Interview for Developer](https://github.com/gyoogle/tech-interview-for-developer)
-[Interview Questions for Beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+[Tech Interview for Developer](https://github.com/gyoogle/tech-interview-for-developer)  
+[Interview Questions for Beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)  
+[Coding Test Problem Set](https://github.com/tony9402/baekjoon) 
